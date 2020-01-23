@@ -12,3 +12,5 @@ if temp == sum:
 else:
     print("Is not a Palindrome Number")
     print(sum)
+    
+    
