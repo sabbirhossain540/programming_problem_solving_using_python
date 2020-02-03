@@ -8,3 +8,4 @@ nm2 = int(input("Enter Your Range of Multiplication: "))
 multiplier(nm1,nm2)
 
 
+
