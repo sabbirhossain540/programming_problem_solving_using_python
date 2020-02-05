@@ -6,3 +6,6 @@ def multiplier(num1,num2):
 nm1 = int(input("Enter Your Multiplier Number: "))
 nm2 = int(input("Enter Your Range of Multiplication: "))
 multiplier(nm1,nm2)
+
+
+
