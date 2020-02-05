@@ -12,5 +12,3 @@ if fix == sum:
     print("{} is a Armstrong Number.".format(fix))
 else:
     print("{} is not a Armstrong Number.".format(fix))
-    
-    
