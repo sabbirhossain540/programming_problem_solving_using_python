@@ -1,1 +1,1 @@
-rtyufdb
+print("Hello World")
