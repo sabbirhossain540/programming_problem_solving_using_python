@@ -9,3 +9,7 @@ for i in range(0, a):
         print("* ",end="")
     #For Break Each Row
     print("\r")
+    
+    
+    
+    
