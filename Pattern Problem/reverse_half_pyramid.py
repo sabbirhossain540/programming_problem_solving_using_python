@@ -14,4 +14,6 @@ a = int(input("Enter a size of your Pyramid: "))
 pattern(a)
 
 
+
+
     
