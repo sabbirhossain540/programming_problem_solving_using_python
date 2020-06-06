@@ -7,3 +7,6 @@ def checkNo(n):
 
 num = int(input("Enter a Number: "))
 checkNo(num);
+
+
+
