@@ -4,6 +4,7 @@ a = int(input("Enter Your Pyramid Size:"))
 k = 2*a - 1
 
 
+
 for i in range(0, a):
     
     for j in range(0, k):
